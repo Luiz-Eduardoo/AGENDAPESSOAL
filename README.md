@@ -29,8 +29,6 @@ Abra o Eclipse.
 
 Faça a conexão com o WampServer
 
-Crie e execute o projeto:
-
 Crie um novo Maeven Project, adicione as classes necessárias, monte o código e execute.
 
 ## 🛠️ Construído com
